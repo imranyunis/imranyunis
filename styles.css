@@ -1,15 +1,29 @@
-#title {
-    color: red;
-}
-
 #title{
+
+    color: red;
+
+}
+#title{
+
     color: purple;
-}
 
-.blue{
-   color: blue; 
 }
-h2{
-color: green
+#title{
 
+    color: blue;
+
+}
+#title{
+
+    color:green;
+
+}
+body{
+   background-color: rgb(5,47,90) 
+   color: white;
+   padding: 30px 
+}
+ul{
+    border: 1px solid black; 
+    padding: 20 px; 
 }
